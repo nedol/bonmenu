@@ -1,296 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="e1f031a4-7a84-44fb-95c7-893284c57189" name="Default" comment="bonemenu">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dist/ddd/bar/Rack bar N240816.3DS" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dist/ddd/bar/Rack bar N240816.gsm" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dist/ddd/bar/Rack_bar_N240816.3ds.obj" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dist/ddd/bar/Rack_bar_N240816.obj" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dist/ddd/bar/black.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dist/ddd/bar/buk.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dist/ddd/bnet/bnet.dae" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dist/ddd/chair/amat_toledo.gsm" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dist/ddd/chair/amat_toledo.obj" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dist/ddd/chair/amat_toledo_0.3DS" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dist/ddd/chair/chair.blend" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dist/ddd/chair/chair.blend1" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dist/ddd/chair/e4ce4eba11a535311940f0f476c4b668.rar" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dist/ddd/chair_1/1 (1)2.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dist/ddd/chair_1/Chair N210114.3DS" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dist/ddd/chair_1/Chair N210114.gsm" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dist/ddd/chair_1/chair.blend" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dist/ddd/chair_1/chair.blend1" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dist/ddd/chair_2/262920050920.max.3ds" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dist/ddd/chair_3/Armchair N161111.3DS" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dist/ddd/chair_3/Armchair N161111.gsm" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dist/ddd/cloth/Cloth.3DS" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dist/ddd/cloth/Cloth.gsm" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dist/ddd/comod/Комод/LIVINGSTON DOUBLE GLASS DOOR CABINET/Cabinet_2013.max" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dist/ddd/comod/Комод/LIVINGSTON DOUBLE GLASS DOOR CABINET/Cabinet_2016.max" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dist/ddd/comod/Комод/LIVINGSTON DOUBLE GLASS DOOR CABINET/FBX.FBX" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dist/ddd/comod/Комод/LIVINGSTON DOUBLE GLASS DOOR CABINET/export/OBJ.obj" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dist/ddd/comod/Комод/LIVINGSTON DOUBLE GLASS DOOR CABINET/maps/metal.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dist/ddd/comod/Комод/LIVINGSTON DOUBLE GLASS DOOR CABINET/maps/wood_44.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dist/ddd/comod/Комод/LIVINGSTON DOUBLE GLASS DOOR CABINET/maps/wood_44_b.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dist/ddd/comod/Комод/LIVINGSTON DOUBLE GLASS DOOR CABINET/maps/wood_44_g.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dist/ddd/comod/Комод/LIVINGSTON DOUBLE GLASS DOOR CABINET/preview/1.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dist/ddd/comod/Комод/LIVINGSTON DOUBLE GLASS DOOR CABINET/preview/1_1.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dist/ddd/comod/Комод/LIVINGSTON DOUBLE GLASS DOOR CABINET/preview/2.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dist/ddd/comod/Комод/LIVINGSTON DOUBLE GLASS DOOR CABINET/preview/2_2.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dist/ddd/comod/Комод/LIVINGSTON DOUBLE GLASS DOOR CABINET/preview/2_3.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dist/ddd/comod/Комод/LIVINGSTON DOUBLE GLASS DOOR CABINET/preview/3.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dist/ddd/comod/Комод/LIVINGSTON DOUBLE GLASS DOOR CABINET/preview/3_1.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dist/ddd/comod/Комод/LIVINGSTON DOUBLE GLASS DOOR CABINET/preview/3_2.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dist/ddd/comod/Комод/LIVINGSTON DOUBLE GLASS DOOR CABINET/preview/4.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dist/ddd/entrance/037honduras2.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dist/ddd/entrance/Door N080509.3ds" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dist/ddd/entrance/Door N080509.gsm" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dist/ddd/entrance/entrance.blend" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dist/ddd/entrance/entrance.dae" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dist/ddd/glasscase/44 wood_itaca_diff.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dist/ddd/glasscase/Glasscase N270313.3DS" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dist/ddd/glasscase/Glasscase N270313.gsm" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dist/ddd/glasscase/glasscase.blend" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dist/ddd/glasscase/glasscase.blend1" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dist/ddd/mirror/IntererHDRI_50.hdr" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dist/ddd/mirror/Mirror.3DS" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dist/ddd/mirror/Mirror.gsm" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dist/ddd/mirror/mi.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dist/ddd/mirror_1/Mirror.3DS" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dist/ddd/mirror_1/Mirror.gsm" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dist/ddd/mirror_1/mirror.blend" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dist/ddd/mirror_1/tarkett_laminfart_belii_krap.jpeg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dist/ddd/mirror_1/Су Мебель 1.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dist/ddd/mirror_1/кк.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dist/ddd/sconce/Sconce.3DS" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dist/ddd/sconce/Sconce.gsm" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dist/ddd/sconce/WALP64L 5.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dist/ddd/sconce/sconce.blend" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dist/ddd/sconce/sconce.blend1" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dist/ddd/table/5.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dist/ddd/table/Dub_palermo.jpg.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dist/ddd/table/Table N300716.3DS" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dist/ddd/table/Table.gsm" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dist/ddd/table/materials_default.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dist/ddd/table/table.dae" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dist/ddd/table_1/Sapele Mahogany.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dist/ddd/table_1/Table.3DS" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dist/ddd/table_1/Table.gsm" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dist/ddd/table_1/table.blend" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dist/ddd/table_1/table.blend1" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dist/images/La Route du Miam – Google Карты.mhtml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dist/images/P_20171029_130658_PN.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dist/images/P_20171029_130844_PN.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dist/images/P_20171029_130924_PN.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dist/images/Smith-Wollensky-360-virtual-tour-002.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dist/images/ar/butterfly.2.gif" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dist/images/ar/butterfly_net.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dist/images/banner.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dist/images/banner.png.0.pdnBak" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dist/images/chef.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dist/images/front.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dist/images/front_0.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dist/images/front_1.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dist/images/front_2 Panorama.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dist/images/front_2.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dist/images/front_3.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dist/images/ic_minus.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dist/images/ic_plus.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dist/images/ic_splash.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dist/images/ic_stop.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dist/images/panorama.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dist/images/puydesancy.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dist/images/restaurant-marketing-virtual-tour-360-degree-photography0.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/menu/images/duck.2.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/menu/images/duck.3.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/menu/images/duck.4.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/menu/images/duck.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/menu/images/menu.1.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/menu/images/menu.2.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/menu/images/pig.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/webServers.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dist/admin.ddd.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dist/admin.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dist/css/bootstrap-datetimepicker.min.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dist/css/bootstrap-select.min.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dist/css/bootstrap.min.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dist/css/dialog-polyfill.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dist/css/font-awesome.min.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dist/css/jquery.datetimepicker.min.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dist/css/jquery.mobile-1.4.5.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dist/ddd/bar/archibase.net.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dist/ddd/bar/rack_bar.dae" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dist/ddd/chair/amat_toledo.dae" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dist/ddd/chair_1/archibase.net.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dist/ddd/chair_1/chair.dae" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dist/ddd/chair_3/archibase.net.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dist/ddd/cloth/archibase.net.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dist/ddd/comod/Комод/LIVINGSTON DOUBLE GLASS DOOR CABINET/export/OBJ.mtl" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dist/ddd/entrance/archibase.net.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dist/ddd/glasscase/Glasscase_N270313.3ds.dae" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dist/ddd/glasscase/Glasscase_N270313.3ds.obj" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dist/ddd/glasscase/archibase.net.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dist/ddd/glasscase/glasscase.dae" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dist/ddd/gltf_2/Monster.gltf" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dist/ddd/mirror/archibase.net.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dist/ddd/mirror_1/archibase.net.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dist/ddd/mirror_1/mirror.dae" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dist/ddd/sconce/archibase.net.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dist/ddd/sconce/sconce.dae" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dist/ddd/table/archibase.net.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dist/ddd/table_1/archibase.net.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dist/ddd/table_1/table.dae" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dist/host.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dist/menu_item_tmplt.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dist/user_panorama.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lib/aframe-orbit-controls-component.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lib/aframe.min.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lib/threex.objcoord.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/server/app.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/server/dict/dict.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/server/global.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/server/server.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/server/tcp.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/server/test.json" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/admin/admin.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/admin/admin_entry.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/ar/ar.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/ar/threex.objcoord.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/connection/connection.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/dict/bing.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/dict/dict.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/dict/dict.json" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/dict/dict_1.json" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/dict/languages.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/dict/translation.json" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/global.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/html/scene.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/html/test.ddd.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/menu/import/drag.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/menu/menu.admin.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/menu/menu.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/menu/menu.json" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/menu/menu.user.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/menu/order.json" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/menu/test.json" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/orbit-controls-build.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/sse/sse.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/user/user.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/user/user_entry.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/webpack.config.js" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/.gitignore" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/rollup.config.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/rollup_start_dev.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/operator/App.svelte" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/operator/assets/contact-add.svg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/operator/assets/file-transfer.svg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/operator/assets/icofont/demo.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/operator/assets/icofont/flash.svg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/operator/assets/icofont/fonts/icofont.eot" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/operator/assets/icofont/fonts/icofont.svg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/operator/assets/icofont/fonts/icofont.ttf" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/operator/assets/icofont/fonts/icofont.woff" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/operator/assets/icofont/fonts/icofont.woff2" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/operator/assets/icofont/icofont.css" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/operator/assets/icofont/icofont.min.css" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/operator/assets/minus-circle.svg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/operator/assets/mp3/call.mp3" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/operator/assets/mp3/dialing.mp3" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/operator/assets/mp3/ring.mp3" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/operator/assets/operator.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/operator/assets/operator.svg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/operator/assets/plus-circle.svg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/operator/assets/support.svg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/operator/assets/transfer-data.svg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/operator/assets/ui-contact-list.svg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/operator/assets/ui-remove.svg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/operator/assets/user.svg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/operator/kolmit/Audio.local.svelte" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/operator/kolmit/Audio.remote.svelte" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/operator/kolmit/Download.svelte" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/operator/kolmit/Operator.svelte" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/operator/kolmit/RecordedVideo.svelte" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/operator/kolmit/Utils.svelte" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/operator/kolmit/Video.local.svelte" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/operator/kolmit/Video.remote.svelte" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/operator/kolmit/_Profile.svelte" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/operator/kolmit/callbutton/CallButtonOperator.svelte" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/operator/kolmit/callcenter/Callcenter.svelte" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/operator/kolmit/callcenter/Card.svelte" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/operator/kolmit/callcenter/Dep.svelte" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/operator/kolmit/callcenter/FileTransfer.svelte" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/operator/kolmit/callcenter/Forward.svelte" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/operator/kolmit/callcenter/Landpage.svelte" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/operator/kolmit/callcenter/Minus.svelte" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/operator/kolmit/callcenter/Oper.svelte" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/operator/kolmit/callcenter/Tarif.svelte" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/operator/kolmit/callcenter/main.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/operator/kolmit/js/DataChannel.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/operator/kolmit/js/DataChannelOperator.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/operator/kolmit/js/Peer.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/operator/kolmit/js/RTCBase.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/operator/kolmit/js/RTCOperator.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/operator/kolmit/js/dict.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/operator/kolmit/js/events.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/operator/kolmit/js/recorder.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/operator/kolmit/js/signalingChannel.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/operator/kolmit/js/stores.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/operator/kolmit/menu/BurgerButton.svelte" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/operator/kolmit/menu/BurgerMenu.svelte" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/operator/kolmit/menu/SideMenu.svelte" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/operator/kolmit/modal/Content.svelte" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/operator/kolmit/modal/Dialog.svelte" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/operator/main.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/site/App.svelte" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/site/SelectMenu.svelte" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/site/assets/icofont/demo.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/site/assets/icofont/icofont.css" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/site/assets/icofont/icofont.min.css" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/site/assets/mp3/call.mp3" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/site/assets/mp3/dialing.mp3" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/site/assets/mp3/ring.mp3" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/site/assets/phone.svg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/site/main.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/site/site.svelte" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/user/App.svelte" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/user/assets/icofont/demo.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/user/assets/icofont/icofont.css" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/user/assets/icofont/icofont.min.css" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/user/assets/mp3/call.mp3" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/user/assets/mp3/dialing.mp3" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/user/assets/mp3/ring.mp3" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/user/assets/phone.svg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/user/kolmit/Audio.local.svelte" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/user/kolmit/Audio.remote.svelte" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/user/kolmit/CallButtonUser.svelte" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/user/kolmit/Download.svelte" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/user/kolmit/DropdownList.svelte" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/user/kolmit/RecordedVideo.svelte" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/user/kolmit/User.svelte" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/user/kolmit/Utils.svelte" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/user/kolmit/Video.local.svelte" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/user/kolmit/Video.remote.svelte" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/user/kolmit/Video.svelte" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/user/kolmit/js/DataChannel.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/user/kolmit/js/DataChannelUser.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/user/kolmit/js/Peer.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/user/kolmit/js/RTCBase.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/user/kolmit/js/RTCUser.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/user/kolmit/js/dict.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/user/kolmit/js/events.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/user/kolmit/js/recorder.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/user/kolmit/js/settings.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/user/kolmit/js/signalingChannel.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/user/kolmit/js/stores.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/user/kolmit/modal/Content.svelte" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/user/kolmit/modal/Profile.svelte" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/user/main.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/users.log" afterPath="" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/src/operator/kolmit/js/utils.js" afterPath="$PROJECT_DIR$/src/utils.js" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/src/site/PswInput.svelte" afterPath="$PROJECT_DIR$/.idea/dataSources.xml" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/src/user/kolmit/js/utils.js" afterPath="$PROJECT_DIR$/server/utils.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/deployment.xml" afterPath="$PROJECT_DIR$/.idea/deployment.xml" />
-    </list>
+    <list default="true" id="e1f031a4-7a84-44fb-95c7-893284c57189" name="Default" comment="bonemenu" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -338,7 +49,7 @@
     <handled-path value="$PROJECT_DIR$/node_modules" />
   </component>
   <component name="PhpWorkspaceProjectConfiguration" backward_compatibility_performed="true" />
-  <component name="ProjectFrameBounds" extendedState="7">
+  <component name="ProjectFrameBounds" extendedState="6">
     <option name="x" value="56" />
     <option name="width" value="1717" />
     <option name="height" value="1057" />
@@ -417,7 +128,7 @@
       <workItem from="1549099830539" duration="317000" />
       <workItem from="1664376372262" duration="857000" />
       <workItem from="1664377314295" duration="840000" />
-      <workItem from="1664378181423" duration="988000" />
+      <workItem from="1664378181423" duration="1577000" />
     </task>
     <task id="LOCAL-00001" summary="bonemenu">
       <created>1664377686652</created>
@@ -430,10 +141,10 @@
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="3846000" />
+    <option name="totallyTimeSpent" value="4435000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="-8" y="-8" width="1936" height="1096" extended-state="7" />
+    <frame x="-8" y="-8" width="1936" height="1096" extended-state="6" />
     <layout>
       <window_info id="Remote Host" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.14285715" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
